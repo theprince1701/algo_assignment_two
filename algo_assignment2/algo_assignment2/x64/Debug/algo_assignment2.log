@@ -1,0 +1,3 @@
+﻿  algo_assignment2.cpp
+D:\assignments\algo_assignment2\algo_assignment2\algo_assignment2.cpp(85,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  algo_assignment2.vcxproj -> D:\assignments\algo_assignment2\x64\Debug\algo_assignment2.exe
